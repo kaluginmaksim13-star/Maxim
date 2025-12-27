@@ -1,5 +1,5 @@
-@import url("/css/fonts.css");
-@import url("/css/reset.css");
+@import url("fonts.css");
+@import url("reset.css");
 
 header {
     width: 1840px;
@@ -1667,4 +1667,5 @@ main {
     .sign-1 {
         margin-right: 100px;
     }
+
 }
