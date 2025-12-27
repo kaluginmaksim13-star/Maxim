@@ -1,5 +1,5 @@
-@import url("/css/main.css");
-@import url("/css/fonts.css");
+@import url("main.css");
+@import url("fonts.css");
 
 :root {
     --color-black: #000000;
@@ -46,3 +46,4 @@ body {
     max-width: 1200px;
     height: auto;
 }
+
